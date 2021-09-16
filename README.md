@@ -5,7 +5,7 @@
 ### My Tech stack:
 1. C, C++, Python, pHp
 2. HTML, CSS, Bootstrap, JavaScript
-3. Django, Flask
+3. Django and Flask
 4. MySql
 5. Machine Learning
 6. Cyber Security

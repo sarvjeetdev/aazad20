@@ -1,6 +1,6 @@
 # Hello👋, I’m Sarvjeet Singh.
 
-## I am a Computer Science student, which is both my profession and passion :heart:. I am interested into problem solving :star2: and development :innocent:. 
+## I am a Computer Science student, which is both my profession and passion :heart:. I am interested into problem solving :star2: and developing new things. :innocent:. 
 
 ### My Tech stack:
 1. C, C++, Python, pHp

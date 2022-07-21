@@ -3,12 +3,12 @@
 ## I am a Computer Science student, which is both my profession and passion :heart:. I am interested into problem solving :star2: and developing new things. :innocent:. 
 
 ### My Tech stack:
-1. C, C++, Python, pHp
+1. C, C++, Python
 2. HTML, CSS, Bootstrap, JavaScript
 3. Django and Flask
 4. MySql
-5. Machine Learning
-6. Cyber Security
+5. Machine Learning, Deep Learning
+6. Cloud Platforms: Google Cloud Platform and Microsoft Azure
 
 
 

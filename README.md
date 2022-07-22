@@ -1,15 +1,6 @@
 # Hello👋, I’m Sarvjeet Singh.
 
-## I am a Computer Science student, which is both my profession and passion :heart:. I am interested into problem solving :star2: and developing new things. :innocent:. 
-
-### My Tech stack:
-1. C, C++, Python
-2. HTML, CSS, Bootstrap, JavaScript
-3. Django and Flask
-4. MySql
-5. Machine Learning, Deep Learning
-6. Cloud Platforms: Google Cloud Platform and Microsoft Azure
-
+### I am pursuing my bachelors in Computer Science, which is both my profession and passion :heart:. I am interested into problem solving :star2: and developing new stuff. :innocent:. 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet4779&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,8 +13,6 @@
 
 ### Reach me :
 > [LinkedIn ](https://www.linkedin.com/in/sarvjeet-singh-6249551b7/) <br/>
-> [Instagram](https://www.instagram.com/thespacesquad_/?hl=en)
-
 
 <!---
 jeet4779/jeet4779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

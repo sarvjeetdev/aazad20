@@ -11,10 +11,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazad20&show_icons=true&theme=tokyonight)
 
 
-### Reach me :
+### Connect:
 > [LinkedIn ](https://www.linkedin.com/in/sarvjeet-singh-6249551b7/) <br/>
 
-<!---
-jeet4779/jeet4779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

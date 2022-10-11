@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aazad20&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aazad20&layout=demo)
+
 ### Connect:
 > [LinkedIn ](https://www.linkedin.com/in/sarvjeet-singh-6249551b7/) <br/>
 

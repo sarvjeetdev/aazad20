@@ -1,6 +1,6 @@
-# Hello👋, I’m Sarvjeet Singh.
+# Hello👋, I am Sarvjeet Singh.
 
-### I am pursuing my Engineering in Computer Science. I solve problems, develop stuff and live life in Engineering Style :innocent:. 
+### I am curently pursuing my Engineering in Computer Science. I solve problems, develop stuff and live life in Engineering Style :innocent:. 
 
 
 ### Connect:

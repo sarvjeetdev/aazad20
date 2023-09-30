@@ -1,6 +1,6 @@
 <p style="font-size: 300%;"> Hello👋, I am Sarvjeet Singh.  </p>
 
-<p> I am curently pursuing my Engineering in Computer Science. I solve problems, develop stuff and live life in Engineering Style :innocent:.   </p>
+<p> I am a Computer ScienceEngineer. I solve problems, develop stuff and live life in Engineering Style :innocent:.   </p>
 
 <hr>
 
@@ -13,3 +13,5 @@
 ### Connect:
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sarvjeet-singh-6249551b7/)
 
+
+![](https://komarev.com/ghpvc/?username=aazad20)

@@ -9,8 +9,7 @@
 
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats-amber.vercel.app?user=aazad20&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/aazad20)
-
+[![GitHub Streak](https://github-readme-streak-stats-git-main-aazad20.vercel.app?user=aazad20&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 <hr>
 
 ### Connect :

@@ -1,6 +1,6 @@
-# Hello👋, I am Sarvjeet Singh.  
+# Hello👋🚀, I am Sarvjeet Singh.  
 
-## I am a Computer ScienceEngineer. I solve problems, develop stuff and live life in Engineering Style :innocent:.
+## I am a Computer ScienceEngineer. I solve problems, develop stuff and live life in Engineering Style.
 
 # My arsenal
 

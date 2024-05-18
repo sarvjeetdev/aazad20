@@ -13,5 +13,4 @@
 <hr>
 
 ### Connect :
-[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sarvjeet-singh-6249551b7/)  [![My Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/isarvjeet/)
-
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sarvjeet-singh-6249551b7/)
